@@ -8,9 +8,10 @@ https://drive.x86pi.cn/BIOS/1.miniPC-BIOS/Meteor_Lake(Ultra_5_125H-Ultra_7_155H-
 
 
 BIOS Scan Report (Static Scan)
+Scan Date : 12 June 2026
 
 Claude (Opus 4.8, Fable 5)
-Scan method: Scan by Claude, connected IDA Pro via MCP and upload the BIOS file to Claude
+Scan method: Scan by Claude, connected IDA Pro via MCP and uploaded the BIOS file to Claude
 
 ChatGPT (5.5 Pro)
-Scan method: Scan by ChatGPT upload the BIOS file to ChatGPT
+Scan method: Scan by ChatGPT; uploaded the BIOS file to ChatGPT
